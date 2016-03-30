@@ -7,11 +7,18 @@ int main(int argc, char* argv[])
 
 	//fsdajkbvdskjvbdskjbkj vkjdsbvkj
 	
+	//fsuiebvfdbvgsd
 	//Faire l'implémentation
 	
 	printf("Somme = %d\n", somme);
 
+<<<<<<< HEAD
 	//papapapapapapapa
+=======
+	//fddskjvbdfskjbgsdkj
+>>>>>>> Sol1
 
 	printf("Hello");
+
+	//fkjdbskjbfdsjkbvdsbvjk
 }
