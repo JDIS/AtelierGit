@@ -8,4 +8,6 @@ int main(int argc, char* argv[])
 	//Faire l'implémentation
 	
 	printf("Somme = %d\n", somme);
+
+	printf("Hello");
 }
